@@ -1,0 +1,8 @@
+cd <?xml version="1.0" encoding="UTF-8"?>
+<suite name="Capstone Test Suite" parallel="false">
+    <test name="BDD Capstone Test">
+        <classes>
+            <class name="runner.TestRunner"/>
+        </classes>
+    </test>
+</suite>

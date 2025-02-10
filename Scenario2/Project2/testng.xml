@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Web Application Test Suite">
+    <test name="Web Tests">
+        <classes>
+            <class name="tests.WebTest"/>
+        </classes>
+    </test>
+</suite>

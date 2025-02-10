@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RestAssuredTestSuite">
+    <test name="Country Translation API Test">
+        <classes>
+            <class name="tests.CountryTranslationTests"/>
+        </classes>
+    </test>
+</suite>
